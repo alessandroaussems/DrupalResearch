@@ -1,0 +1,14 @@
+name: 'Skillset Inview'
+description: 'Provides a block to show off your Skills!  For portfolio sites/pages.'
+package: other
+dependencies:
+  - block
+configure: skillset_inview.order
+# core: 8.x
+type: module
+
+# Information added by Drupal.org packaging script on 2016-05-05
+version: '8.x-1.01'
+core: '8.x'
+project: 'skillset_inview'
+datestamp: 1462454766
