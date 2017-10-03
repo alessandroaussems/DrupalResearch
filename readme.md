@@ -12,4 +12,7 @@
  - Module downloaden https://www.drupal.org/project/skillset_inview
     https://github.com/gdsmith/jquery.easing/tree/1.3.2
     https://github.com/protonet/jquery.inview/tree/v1.1.2
- - Plugin in gebruik nemen en SKILLS tonen!
+ - Module in gebruik nemen en SKILLS tonen!
+ - Module contactform + contactblock
+    https://www.drupal.org/project/contact_block
+    
