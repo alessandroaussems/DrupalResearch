@@ -15,4 +15,8 @@
  - Module in gebruik nemen en SKILLS tonen!
  - Module contactform + contactblock
     https://www.drupal.org/project/contact_block
+## 13/10/2017
+ - Favico veranderen
+ - Basis HTML pagina's maken + content geven.
+ - Creating Nodes => How  do they work?
     
