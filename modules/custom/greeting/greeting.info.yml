@@ -1,0 +1,6 @@
+name: Greeting Module
+description: Greets user based on time of the day.
+package: Custom
+type: module
+version: 1.0
+core: 8.x
