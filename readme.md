@@ -19,4 +19,13 @@
  - Favico veranderen
  - Basis HTML pagina's maken + content geven.
  - Creating Nodes => How  do they work?
-    
+ - Vraag gesteld op stackoverflow hoe views maken? 
+ https://stackoverflow.com/questions/46727617/list-all-articles-on-a-page-drupal-8
+ ## 17/10/2017
+ - Tutorial volgen hoe views te maken 
+ http://redcrackle.com/blog/how-to-create-drupal-8-views
+ - View aanmaken voor NIEUWS 
+ - Hoe meta informatie "Submitted by" verbergen?
+ https://drupal.stackexchange.com/questions/3257/how-do-i-remove-the-submitted-by-text-on-node-display
+ - Comments uitschakelen bij posts? 
+ 
