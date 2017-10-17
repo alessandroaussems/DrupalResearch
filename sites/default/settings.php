@@ -764,11 +764,11 @@ $settings['file_scan_ignore_directories'] = [
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'drupalresearch',
-  'username' => 'root',
-  'password' => 'root',
+  'database' => 'ID211210_drupalresearch',
+  'username' => 'ID211210_drupalresearch',
+  'password' => 'drupalresearchadmin1',
   'prefix' => '',
-  'host' => 'localhost',
+  'host' => 'ID211210_drupalresearch.db.webhosting.be',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',

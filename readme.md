@@ -36,5 +36,11 @@
  - Tutorial succesvol afgerond! https://www.drupal.org/docs/8/creating-custom-modules/a-hello-world-custom-page-module
  - Module maken die gebruiker groet op basis van tijdstip van de dag!
  - Module gebouwd die gebruiker begroet op basis van de dag :grin:
+ - Hoe drupal best online zetten?
+ - Tutorial: https://www.drupal.org/node/425892
+ - Werkt dit zonder BASE-URL in te stellen? Antwoord: JA!
+ https://drupal.stackexchange.com/questions/199445/how-do-i-change-the-base-url
+ - Drupal online gezet + getest 
+ https://drupalresearch.alessandro.aussems.mtantwerp.eu/
  
  
