@@ -20,6 +20,7 @@ class GreetingBlock extends BlockBase {
      */
     public function build() {
         return array(
+            '#cache' => ['max-age' => 0,],
             '#markup' => $this->t($this->HourChecker()),
         );
     }

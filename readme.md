@@ -46,6 +46,9 @@
 - Drupal visitcountermodule schrijven.
 - ERROR? https://www.drupal.org/forum/support/post-installation/2016-12-06/the-website-encountered-an-unexpected-error-please-try
 - Module verwijderd, bleek een "pain in the *** "
+- Remove caching in module 
+https://drupal.stackexchange.com/questions/151254/how-can-i-prevent-a-particular-page-being-cached
+
 
  
  
