@@ -42,5 +42,10 @@
  https://drupal.stackexchange.com/questions/199445/how-do-i-change-the-base-url
  - Drupal online gezet + getest 
  https://drupalresearch.alessandro.aussems.mtantwerp.eu/
+##24/10/2017
+- Drupal visitcountermodule schrijven.
+- ERROR? https://www.drupal.org/forum/support/post-installation/2016-12-06/the-website-encountered-an-unexpected-error-please-try
+- Module verwijderd, bleek een "pain in the *** "
+
  
  
