@@ -48,7 +48,8 @@
 - Module verwijderd, bleek een "pain in the *** "
 - Remove caching in module 
 https://drupal.stackexchange.com/questions/151254/how-can-i-prevent-a-particular-page-being-cached
-
+- Fixed Contactform
+- Zelf ondervonden dat site-email niet hetzelfde kan zijn als ingevulde email door gebruiker :tongue:
 
  
  
