@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc33dc0a-a0b5-47c4-9f54-efbf30969860" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_DrupalExtraFiles/Drupal.pptx" afterPath="$PROJECT_DIR$/1_DrupalExtraFiles/Drupal.pptx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php" afterPath="$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,24 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="681">
-                <caret line="51" column="101" lean-forward="false" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreetingBlock.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GreetingBlock.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="338">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -68,8 +54,8 @@
         <option value="$USER_HOME$/Desktop/index.html" />
         <option value="$PROJECT_DIR$/modules/custom/employment/src/Plugin/Block/EmploymentBlock.php" />
         <option value="$PROJECT_DIR$/modules/custom/visitcounter/src/Plugin/Block/VisitcounterBlock.php" />
-        <option value="$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php" />
       </list>
     </option>
   </component>
@@ -102,8 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +160,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,12 +196,14 @@
       <workItem from="1507908343591" duration="38000" />
       <workItem from="1508243469176" duration="124000" />
       <workItem from="1508245059357" duration="9560000" />
-      <workItem from="1508841234469" duration="6463000" />
+      <workItem from="1508841234469" duration="6764000" />
+      <workItem from="1508918139183" duration="20000" />
+      <workItem from="1510343449442" duration="272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21420000" />
+    <option name="totallyTimeSpent" value="22013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -256,7 +244,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -289,7 +276,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -322,7 +308,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -495,43 +480,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$USER_HOME$/Desktop/index.html" />
-    <entry file="file://$PROJECT_DIR$/modules/custom/employment/src/Plugin/Block/EmploymentBlock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/employment/src/Plugin/Block/EmploymentBlock.php" />
     <entry file="file://$PROJECT_DIR$/modules/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/visitcounter/src/Plugin/Block/VisitcounterBlock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/visitcounter/src/Plugin/Block/VisitcounterBlock.php" />
     <entry file="file://D:/FINISHED_SCHOOL/MCT 2/WebConcepten/1-EXAMEN/Opdracht Wordpress/Wordpress/wp-content/plugins/visitcounter/visitcounter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-282">
           <caret line="32" column="73" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,9 +501,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="681">
             <caret line="51" column="101" lean-forward="false" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/greeting/src/Plugin/Block/GreetingBlock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
