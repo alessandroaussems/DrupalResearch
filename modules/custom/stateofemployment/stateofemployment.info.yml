@@ -1,0 +1,6 @@
+name: State Of Employment Module
+description: Allows user to set current state of employment.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

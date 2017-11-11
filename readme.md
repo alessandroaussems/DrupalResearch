@@ -1,4 +1,5 @@
 # Logboek Drupal Research
+Online: https://drupalresearch.alessandro.aussems.mtantwerp.eu/
 ## 26/09/2017
  - Installatie van Drupal op localhost
  - Installatie van basisthema
@@ -50,6 +51,15 @@
 https://drupal.stackexchange.com/questions/151254/how-can-i-prevent-a-particular-page-being-cached
 - Fixed Contactform
 - Zelf ondervonden dat site-email niet hetzelfde kan zijn als ingevulde email door gebruiker :tongue:
+## 10/11/2017
+- Caching in greeting module
+https://drupal.stackexchange.com/questions/185215/how-do-i-disable-twig-and-block-cache-for-a-specific-module
+## 11/11/2017
+- Employment Module
+http://cgit.drupalcode.org/sandbox-sidharrell-2466449/tree/src/Plugin/Block/HelloBlock.php?h=block&id=d959e1d0878b8b097acc9a1e88935011139f108d
+https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-configuration
+- Creating Module was very difficult
+
 
  
  
