@@ -59,6 +59,11 @@ https://drupal.stackexchange.com/questions/185215/how-do-i-disable-twig-and-bloc
 http://cgit.drupalcode.org/sandbox-sidharrell-2466449/tree/src/Plugin/Block/HelloBlock.php?h=block&id=d959e1d0878b8b097acc9a1e88935011139f108d
 https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-configuration
 - Creating Module was very difficult
+# 15/11/2017
+- Twitter Module
+    * https://www.drupal.org/project/twitter_block
+- Probleempje bij uploaden liver server
+- Probleem opgelost 
 
 
  
