@@ -64,6 +64,7 @@ https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-co
     * https://www.drupal.org/project/twitter_block
 - Probleempje bij uploaden liver server
 - Probleem opgelost 
+- Final changes to the presentation
 
 
  
