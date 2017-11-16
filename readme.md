@@ -70,6 +70,10 @@ https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-co
 - Verbeteren laatste foutjes
 - Toevoegen bekende gebruikers
 - Spelfouten verbeterd
+- Ontdekken trusted host problem
+    * Fix: https://www.youtube.com/watch?v=gDfOrWiPVmA
+    * Could not fix => No rights on the server
+- FINAL VERSION!
 
 
  
