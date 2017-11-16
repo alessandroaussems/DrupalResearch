@@ -69,6 +69,7 @@ https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-co
 - Inoefenen presentatie
 - Verbeteren laatste foutjes
 - Toevoegen bekende gebruikers
+- Spelfouten verbeterd
 
 
  
