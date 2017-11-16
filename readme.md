@@ -1,5 +1,5 @@
 # Logboek Drupal Research
-Online: http://go.alessandroaussems.be/drupal
+Online: https://drupalresearch.alessandro.aussems.mtantwerp.eu/
 ## 26/09/2017
  - Installatie van Drupal op localhost
  - Installatie van basisthema
