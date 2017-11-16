@@ -1,5 +1,5 @@
 # Logboek Drupal Research
-Online: https://drupalresearch.alessandro.aussems.mtantwerp.eu/
+Online: http://go.alessandroaussems.be/drupal
 ## 26/09/2017
  - Installatie van Drupal op localhost
  - Installatie van basisthema
@@ -62,9 +62,13 @@ https://www.drupal.org/docs/8/creating-custom-modules/add-a-form-to-the-block-co
 # 15/11/2017
 - Twitter Module
     * https://www.drupal.org/project/twitter_block
-- Probleempje bij uploaden liver server
+- Probleempje bij uploaden live server
 - Probleem opgelost 
 - Final changes to the presentation
+# 16/11/2017
+- Inoefenen presentatie
+- Verbeteren laatste foutjes
+- Toevoegen bekende gebruikers
 
 
  
